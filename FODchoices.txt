@@ -1,0 +1,242 @@
+FODS on certain days:
+(
+    Crazy For Cookie Dough - 10,
+    Really Reeses - 07
+)
+
+Monthly FODS
+[
+    Butter Pecan,
+    Caramel Cashew,
+    Chocolate Covered Strawberry, 
+    Mint Oreo,
+    Turtle,
+    Red Raspberry,
+    Georgia Peach, 
+    Espresso Toffee Bar,
+    Double Strawberry
+
+]
+
+FOD Choices
+{
+    Name: Andes Mint Avalanche
+    Base: ex
+    Toppings: andes, mint base
+}
+
+{
+    Name: Blackberry Cobbler
+    Base: van
+    Toppings: fruit
+}
+
+{
+    Name: Brownie Batter Overload
+    Base: choc
+    Toppings: brownie 
+}
+
+{
+    Name: Butter Pecan
+    Base: ex
+    Toppings: butter pecan base, nut
+}
+
+{
+    Name: Cappuccino Cookie Crumble
+    Base: ex
+    Toppings: sugar cookie, espresso base
+}
+
+{
+    Name: Caramel Cashew
+    Base: van
+    Toppings: salted caramel, nut
+}
+
+{
+    Name: Caramel Chocolate Pecan
+    Base: choc
+    Toppings: salted caramel, nut
+}
+
+{
+    Name: Caramel Fudge Cookie Dough
+    Base: van
+    Toppings: cookie dough, salted caramel
+}
+
+{
+    Name: Caramel Peanut Buttercup
+    Base: ex
+    Toppings: peanut butter base, salted caramel
+}
+
+{
+    Name: Caramel Pecan
+    Base: van
+    Toppings: salted caramel, nut
+}
+
+{
+    Name: Chocolate Caramel Twist
+    Base: choc
+    Toppings: salted caramel
+}
+
+{
+    Name: Chocolate Covered Strawberry
+    Base: van
+    Toppings: fruit
+}
+
+{
+    Name: Chocolate Eclair
+    Base: van
+    Toppings: bavarian cream, puff pastry
+}
+
+{
+    Name: Chocolate Heath Crunch
+    Base: choc
+    Toppings: heath
+}
+
+{
+    Name: Chocolate Oreo Volcano
+    Base: choc
+    Toppings: oreo
+}
+
+{
+    Name: Crazy For Cookie Dough
+    Base: choc
+    Toppings: cookie dough
+}
+
+{
+    Name: Creamy Lemon Crumble
+    Base: ex
+    Toppings: lemon base, sugar cookie
+}
+
+{
+    Name: Devils Food Cake
+    Base: ex
+    Toppings: choc base, choc cake
+}
+
+{
+    Name: Double Strawberry
+    Base: ex
+    Toppings: fruit
+}
+
+{
+    Name: Dulce De Leche Cheesecake
+    Base: ex
+    Toppings: dulce base, cheesecake
+}
+
+{
+    Name: Espresso Toffee Bar
+    Base: ex
+    Toppings: espresso base, cheesecake
+}
+
+{
+    Name: Georgia Peach
+    Base: ex
+    Toppings: fruit
+}
+
+{
+    Name: Midnight Toffee
+    Base: ex
+    Toppings: choc base, espresso base
+}
+
+{
+    Name: Mint Chip
+    Base: ex
+    Toppings: mint base
+}
+
+{
+    Name: Mint Explosion
+    Base: ex
+    Toppings: mint base, oreo
+}
+
+{
+    Name: Caramel Cashew
+    Base: van
+    Toppings: salted caramel, nut
+}
+
+{
+    Name: Mint Oreo
+    Base: ex
+    Toppings: Mint base, oreo
+}
+
+{
+    Name: Oreo Cheesecake
+    Base: ex
+    Toppings: cheesecake base, oreo, cheesecake
+}
+
+{
+    Name: Oreo Overload
+    Base: choc
+    Toppings: oreo
+}
+
+{
+    Name: Peach Crisp
+    Base: ex
+    Toppings: granola, fruit
+}
+
+{
+    Name: Raspberry Cheescake
+    Base: ex
+    Toppings: cheesecake base, cheesecake, fruit
+}
+
+{
+    Name: Really Reeses
+    Base: choc
+    Toppings: reeses
+}
+
+{
+    Name: Red Raspberry
+    Base: ex
+    Toppings: raspberry base, fruit
+}
+
+{
+    Name: Salted Caramel Pecan Pie
+    Base: van
+    Toppings: salted caramel, cheesecake, nut
+}
+
+{
+    Name: Toffee Pecan
+    Base: van
+    Toppings: heath, nut
+}
+
+{
+    Name: Turtle
+    Base: van
+    Toppings: nut 
+}
+
+{
+    Name: Turtle Dove
+    Base: van
+    Toppings: nut
+}
